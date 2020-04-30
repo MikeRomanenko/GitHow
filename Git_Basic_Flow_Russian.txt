@@ -14,7 +14,7 @@ https://github.com/MikeRomanenko/GitHow
    
      git init                          // Cоздает все необходимое в данной папке 						newProject для репозитория
 
-                                       // вместо последней строки этого можно клонировать в данную папку уже имеющийся репозиторий git clone 				https://github.com/you_account/your_project
+                                       // вместо последней строки этого можно клонировать в данную папку уже имеющийся репозиторий git clone https://github.com/you_account/your_project location
 
 
 3.   Теперь копируем наши файлы в папку newProject
