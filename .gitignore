@@ -1,0 +1,3 @@
+#create .gitingnore file to ignore some files form being GITed.
+
+*.pyc
