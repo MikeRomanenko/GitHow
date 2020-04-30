@@ -43,5 +43,3 @@ https://github.com/MikeRomanenko/GitHow
 7.  Теперь отправляет проект на git облако
 
 8.  git push connectionName master        // Мастер - это то как будет называться
-     
-   
