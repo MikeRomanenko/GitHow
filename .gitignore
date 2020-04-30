@@ -1,3 +1,4 @@
-#create .gitingnore file to ignore some files form being GITed.
+#create .gitingnore file to ignore some files form being GITed in the current folder.
 
+#Like these Python Interpreter files. 
 *.pyc
