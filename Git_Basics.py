@@ -31,10 +31,11 @@ git diff
 git status
 git add -A
 git commint -m "Updating the build number"
-got log
+git remote update - to sync with HEAD before pushing
+git log
 
 *** PUSHING CHANGES ***
-git pull origin(our repo) master(branch to push to)
+git pull origin(our repo) master(branch to push to)  OR use git remote update - to sync with HEAD
 git push origin(our repo) master(branch to push to)
 
 *** Push branch to Remote *** - after commit
